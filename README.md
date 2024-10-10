@@ -1,9 +1,9 @@
 # Mario-Valiante.github.io
-My page
+My personal page
 
 Follow me:
 
-<img src="assets/img/X_icon.svg" width="24" heigth="24" title="X" alt="X"/>  [https://x.com/MarioValiante] (X)
+<img src="assets/img/X_icon.svg" width="24" heigth="24" title="X" alt="X"/> <a href="https://x.com/MarioValiante">X</a>
 
 <img src="assets/img/icons8-linkedin.svg" width="24" heigth="24" title="LinkedIn" alt="LinkedIn"/> [https://www.linkedin.com/in/mario-valiante-38958093/] (LinkedIn)
 
