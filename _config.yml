@@ -1,4 +1,4 @@
-# source: DIR
+# source: [your repo's top level directory]
 # destination: DIR
 # safe: BOOL
 # disable_disk_cache: BOOL
@@ -9,6 +9,9 @@ exclude: README.md
 timezone: Europe/Rome
 encoding: utf-8
 
-theme: jekyll-theme-minimal
 title: Mario's homepage
+logo: /figures/20241010_115515_2_cut_rid1.jpg
 description: Bookmark this to keep an eye on my project updates!
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
