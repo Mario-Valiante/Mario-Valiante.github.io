@@ -4,7 +4,10 @@ My page
 Follow me:
 
 <img src="assets/img/X_icon.svg" width="24" heigth="24" title="X" alt="X"/>
+
 ![X](assets/img/X_icon.svg =24x24) [https://x.com/MarioValiante] (X)
+
+<img src="assets/img/icons8-linkedin.svg" width="24" heigth="24" title="LinkedIn" alt="LinkedIn"/>
 
 ![LinkedIn|24x24](assets/img/icons8-linkedin.svg) [https://www.linkedin.com/in/mario-valiante-38958093/] (LinkedIn)
 
