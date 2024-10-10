@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
 body {
   background-color: #999999;
   padding:50px;
