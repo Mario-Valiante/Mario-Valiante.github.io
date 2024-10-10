@@ -11,7 +11,7 @@ encoding: utf-8
 
 title: Mario's homepage
 logo: /figures/20241010_115515_2_cut_rid1.jpg
-description: Bookmark this to keep an eye on my project updates!
+description: Bookmark this page to keep an eye on my projects updates!
 # show_downloads: true
 # google_analytics:
 theme: jekyll-theme-minimal
