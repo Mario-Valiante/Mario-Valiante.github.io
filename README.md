@@ -3,7 +3,7 @@ My personal page
 
 Follow me:
 
-<img src="assets/img/X_white_icon.svg" width="24" heigth="24" title="X" alt="X icon" align="middle" style="margin:0px 150px 0px 0px"/> <a href="https://x.com/MarioValiante">X</a>
+<img src="assets/img/X_white_icon.svg" width="24" heigth="24" title="X" alt="X icon" align="middle" style="margin:0px 150px 0px 0px"/><pre> ... </pre><a href="https://x.com/MarioValiante">X</a>
 
 <img src="assets/img/icons8-linkedin.svg" width="24" heigth="24" title="LinkedIn" alt="LinkedIn icon" align="middle" style="margin:0px 150px 0px 0px"/> <a href="https://www.linkedin.com/in/mario-valiante-38958093/">LinkedIn</a>
 
