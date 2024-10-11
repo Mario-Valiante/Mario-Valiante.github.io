@@ -8,7 +8,7 @@ I am a Research Fellow at the Department of Civil Engineering of the University 
 
 My main research topics are focused on the study of the interactions between landslide phenomena in geologically complex contexts, GIScience topics about data structures for geospatial information related to geological risks.
 
----
+<span style="color:#FF0000">---</span>
 
 Follow me:
 
