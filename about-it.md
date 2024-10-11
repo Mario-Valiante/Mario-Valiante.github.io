@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Su di me"
 permalink: /about-it
 ---
