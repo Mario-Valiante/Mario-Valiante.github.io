@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_2
 title: "Su di me"
 permalink: /about-it
 ---
