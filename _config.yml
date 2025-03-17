@@ -15,3 +15,7 @@ description: Bookmark this page to keep an eye on my projects updates!
 # show_downloads: true
 google_analytics: true
 theme: jekyll-theme-minimal
+
+github:
+  is_project_page: false
+  is_user_page: true
