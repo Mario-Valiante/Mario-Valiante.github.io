@@ -16,5 +16,7 @@ permalink: /mappa-prova
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin=""></script>
 
-<div id="map"></div>
+<div id="map">
+  #map { height: 180px; }
+</div>
 
