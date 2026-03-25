@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Home"
 ---
 
 # Integration of object-oriented modelling and geomorphometric methodologies for the analysis of landslide systems
